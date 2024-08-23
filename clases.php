@@ -49,4 +49,19 @@ class User {
     }
 
 }
-	?>
+
+// CALCULADORA POO
+// hacer parte visual
+class Calculadora {
+    protected $num1;
+    protected $num2;
+
+    public function __construct() {
+        $this->num1 =$n1;
+        $this->num2 =$n2;
+    }
+
+
+}
+
+?>
